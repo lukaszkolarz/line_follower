@@ -4,5 +4,5 @@ Student project of line follower robot, made using KL05Z microcontroller board, 
 simple ride, only right turnes, line from LEGO® MINDSTORMS NXP:
 https://youtu.be/kxQssL9qiW4
 
-more complex route, located in microprocessors labolatory on AGH:
+more complex route, located in microprocessors laboratory on AGH:
 will be added soon
