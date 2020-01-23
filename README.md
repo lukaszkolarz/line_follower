@@ -5,4 +5,4 @@ simple ride, only right turnes, line from LEGO® MINDSTORMS NXP:
 https://youtu.be/kxQssL9qiW4
 
 more complex route, located in microprocessors laboratory on AGH:
-will be added soon
+https://youtu.be/S_PzXHPFF_c
