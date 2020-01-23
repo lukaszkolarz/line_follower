@@ -6,3 +6,5 @@ https://youtu.be/kxQssL9qiW4
 
 more complex route, located in microprocessors laboratory on AGH:
 https://youtu.be/S_PzXHPFF_c
+
+##### more info in project report
